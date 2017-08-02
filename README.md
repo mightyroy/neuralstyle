@@ -14,7 +14,7 @@ Sample styled image produced from logo bricks style on Van Gogh's Starry Night p
 Applying electronics image as style to monalisa:
 
 
-<div>
+<div margin:10>
 <img src="https://github.com/mightyroy/neuralstyle/blob/master/greenelectronics.jpg" align="left" height="400" width="400" >
 
 <br>
