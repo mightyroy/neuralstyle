@@ -1,5 +1,5 @@
 # neuralstyle
-convolutional network for restyling art style of images
+Convolutional network for restyling art style of images
 
 requres VGG weights imagenet-vgg-verydeep-19.mat
 
