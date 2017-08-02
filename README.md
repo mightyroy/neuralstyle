@@ -13,7 +13,7 @@ Sample styled image produced from logo bricks style on Van Gogh's Starry Night p
 
 Applying electronics image as style to monalisa:
 
-![](https://github.com/mightyroy/neuralstyle/blob/master/greenelectronics.jpg){:height="20%" width="20%"}
+<img src="https://github.com/mightyroy/neuralstyle/blob/master/greenelectronics.jpg" align="left" height="400" width="400" >
 
 ![alt text](https://github.com/mightyroy/neuralstyle/blob/master/tmp2.jpg)
 
