@@ -17,8 +17,9 @@ Applying electronics image as style to monalisa:
 <div>
 <img src="https://github.com/mightyroy/neuralstyle/blob/master/greenelectronics.jpg" align="left" height="400" width="400" >
 
-</br>
+<br>
 </div>
+<p> </p>
 
 ![alt text](https://github.com/mightyroy/neuralstyle/blob/master/tmp2.jpg)
 
